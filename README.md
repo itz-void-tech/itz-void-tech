@@ -13,9 +13,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=itz-void-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itz-void-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 Swarnendu  
+# 💫 Swarnendu Kundu 
 ### Embedded Systems • AI Robotics • Autonomous Systems  
 Founder — **itz-void-tech**
 
@@ -35,13 +34,13 @@ From ESP32-based robotics to Raspberry Pi vision systems, I engineer systems tha
 ### 🤖 Embedded & Robotics
 - ESP32 / ESP32-S3 / ESP32-CAM  
 - Raspberry Pi (Edge AI & Vision Processing)  
-- Arduino Nano  
+- Arduino  
 - nRF24L01+ / SX1278 LoRa  
-- NEO-6M GPS  
+- NEO-6M GPS
+- Telegram Bot API Integration    
 - L298N Motor Drivers  
 - Servo Control Systems  
 - Web-based IoT Dashboards  
-- Telegram Bot API Integration  
 
 ---
 
