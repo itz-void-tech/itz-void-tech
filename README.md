@@ -1,8 +1,5 @@
 # 💫 Swarnendu Kundu 
 ### Embedded Systems • AI Robotics • Autonomous Systems  
-Founder — **itz-void-tech**
-
----
 
 ## 🧠 About Me
 
