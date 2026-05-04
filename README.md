@@ -1,5 +1,4 @@
-# 💫 Swarnendu Kundu 
-### Embedded Systems • AI Robotics • Autonomous Systems  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=250&section=header&text=Swarnendu%20Kundu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5BItz-Void-Tech%5D&descAlignY=55&descAlign=50" alt="Header Banner"/>
 
 ## 🧠 About Me
 
