@@ -105,36 +105,22 @@ From tinkering with **ESP32-based robotics** to deploying **Raspberry Pi vision 
 
 <br>
 
-### 🕵️ Real-Time Pinned Projects
+### 🚀 Highlight Projects
 
-*The official GitHub Stats server is currently experiencing downtime (Error 503), so I built these custom real-time tracker cards that will never break!*
+- **[🤖 Aryabhata Humanoid Robot](https://github.com/itz-void-tech/Aryabhata-Robot-MPB)**  
+  *Interactive humanoid robot controlled by ESP32-S3 with dual TFT displays and web interaction.*
 
-<br>
+- **[🕵️ AI Spy Car](https://github.com/itz-void-tech/Spy-Car-MPB)**  
+  *Autonomous GPS return • Dual remote (NRF + Web) • Night vision • Gas detection*
 
-#### 🤖 [Aryabhata Humanoid Robot](https://github.com/itz-void-tech/Aryabhata-Robot-MPB)
-> Interactive humanoid robot controlled by ESP32-S3 with dual TFT displays and web interaction.
-> 
-> [![Stars](https://img.shields.io/github/stars/itz-void-tech/Aryabhata-Robot-MPB?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/Aryabhata-Robot-MPB) [![Forks](https://img.shields.io/github/forks/itz-void-tech/Aryabhata-Robot-MPB?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/Aryabhata-Robot-MPB)
+- **[🌱 Plant Disease AI](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection)**  
+  *Custom-trained dataset • PyTorch inference pipeline • Edge deployment research*
 
-#### 🕵️ [AI Spy Car](https://github.com/itz-void-tech/Spy-Car-MPB)
-> Autonomous GPS return • Dual remote (NRF + Web) • Night vision • Gas detection
-> 
-> [![Stars](https://img.shields.io/github/stars/itz-void-tech/Spy-Car-MPB?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/Spy-Car-MPB) [![Forks](https://img.shields.io/github/forks/itz-void-tech/Spy-Car-MPB?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/Spy-Car-MPB)
+- **[🚗 AgroXpert Web-Controlled Rover](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB)**  
+  *WiFi dashboard • Pan-tilt system • Live telemetry • Modular expansion design*
 
-#### 🌱 [Plant Disease AI](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection)
-> Custom-trained dataset • PyTorch inference pipeline • Edge deployment research
-> 
-> [![Stars](https://img.shields.io/github/stars/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection) [![Forks](https://img.shields.io/github/forks/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection)
-
-#### 🚗 [AgroXpert Web-Controlled Rover](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB)
-> WiFi dashboard • Pan-tilt system • Live telemetry • Modular expansion design
-> 
-> [![Stars](https://img.shields.io/github/stars/itz-void-tech/AgroXpert_Agricultural_car_MPB?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB) [![Forks](https://img.shields.io/github/forks/itz-void-tech/AgroXpert_Agricultural_car_MPB?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB)
-
-#### 💣 [Mine Detection Robot](https://github.com/itz-void-tech/SCORE-KSHETRA) *(Example / WIP)*
-> Metal detection • GPS mapping • Location logging
-> 
-> [![Stars](https://img.shields.io/github/stars/itz-void-tech/SCORE-KSHETRA?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/SCORE-KSHETRA) [![Forks](https://img.shields.io/github/forks/itz-void-tech/SCORE-KSHETRA?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/SCORE-KSHETRA)
+- **[🕷️ Spider Robot](https://github.com/itz-void-tech/Spider-Robot)**  
+  *3D printed • Web controlled • GPS Mapping*
 
 ---
 
