@@ -1,110 +1,162 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=250&section=header&text=Swarnendu%20Kundu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5BItz-Void-Tech%5D&descAlignY=55&descAlign=50" alt="Header Banner"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=250&section=header&text=Swarnendu%20Kundu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5BItz-Void-Tech%5D&descAlignY=55&descAlign=50" alt="Header Banner"/>
 
-## 🧠 About Me
+  <a href="https://swarnendu-kundu-portfolio.netlify.app">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Robotics+Developer;AI+Engineer;System+Architect;Embedded+Systems+Expert" alt="Typing SVG" />
+  </a>
+</div>
 
-I design and build intelligent hardware systems that combine embedded electronics, AI, and real-world robotics.  
-My focus is on autonomous machines, edge AI deployment, and scalable embedded architectures.
+<br>
 
-From ESP32-based robotics to Raspberry Pi vision systems, I engineer systems that operate beyond simulations — in real environments.
+<div align="center">
+  <a href="mailto:swarnendukundu141d@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/swarnendu-kundu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://swarnendu-kundu-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FFAA&borderColor=00FFAA" alt="Portfolio" /></a>
+</div>
 
 ---
 
-## 🌐 Socials:
+## 🧠 About Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swarnendukundu141d@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swarnendu-kundu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://swarnendu-kundu-portfolio.netlify.app)
+Hi! I'm a passionate **student enthusiast** fascinated by the intersection of hardware and intelligence. I love experimenting with **embedded electronics, AI, and real-world robotics**.  
+My learning journey focuses on exploring autonomous machines, edge AI deployment, and building scalable embedded architectures from scratch.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+From tinkering with **ESP32-based robotics** to deploying **Raspberry Pi vision systems**, I strive to engineer systems that operate beyond simulations — bringing ideas to life in real environments!
+
+---
+
+## 💻 Tech Stack
+
+<br>
+
+<div align="center">
+
+### 🤖 Embedded Systems & Robotics
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+### 🧠 AI & Computer Vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🌐 Software Engineering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
 
 ---
 
 ## ⚙️ Core Expertise
 
 ### 🤖 Embedded & Robotics
-- ESP32 / ESP32-S3 / ESP32-CAM  
-- Raspberry Pi (Edge AI & Vision Processing)  
-- Arduino  
-- nRF24L01+ / SX1278 LoRa  
-- NEO-6M GPS
-- Telegram Bot API Integration    
-- L298N Motor Drivers  
-- Servo Control Systems  
-- Web-based IoT Dashboards  
+⚡ **Microcontrollers:** ESP32 • ESP32-S3/CAM • Arduino  
+🍓 **Edge Compute:** Raspberry Pi (Vision/AI Processing)  
+📡 **Comm & Nav:** LoRa (SX1278) • NRF24L01+ • GPS (NEO-6M)  
+⚙️ **Hardware Control:** Motor Drivers • Servo Systems  
+🌐 **IoT & Web:** Telegram Bots • Web Dashboards  
 
----
-
-### 🛰️ Drone & Autonomy Systems
-- Pixhawk Flight Controllers  
-- ArduPilot Ecosystem  
-- Mission Planner  
-- Telemetry & Ground Control Systems  
-- Autonomous Navigation Concepts  
-
----
+### 🛰️ Drone & Autonomy
+🚁 **Flight Controllers:** Pixhawk  
+🌍 **Ecosystems:** ArduPilot • Mission Planner  
+📡 **Control:** Telemetry & Ground Stations  
+🗺️ **Concepts:** Autonomous Navigation & Pathing  
 
 ### 🧠 AI & Computer Vision
-- PyTorch  
-- OpenCV  
-- NumPy / Pandas  
-- Custom Dataset Training (Roboflow)  
-- Edge AI Optimization  
-- Real-Time Vision Inference  
-- Sensor Fusion Concepts  
+👁️ **Vision:** OpenCV • Real-Time Inference  
+🧠 **Deep Learning:** PyTorch • Sensor Fusion  
+📊 **Data:** NumPy • Pandas • Custom Datasets (Roboflow)  
+⚡ **Edge AI:** Model Optimization for Microcontrollers  
 
 ---
 
-### 💻 Programming Stack
-- 🐍 Python  
-- ☕ Java  
-- ⚙️ C / C++ (Arduino & ESP32)  
-- 🌐 HTML / CSS / JavaScript  
+## 🏆 Real-Time Activity & Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-void-tech&theme=radical&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFAA&sideLabels=ffffff&dates=8b95a5" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=itz-void-tech&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 🚀 Highlight Projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Highlight+Projects;Autonomous+Systems;AI+Integrations" alt="Projects Typing" />
+</div>
 
-### 🕵️ AI Spy Car
-Autonomous GPS return • Dual remote (NRF + Web) • Night vision • Gas detection • Real-time telemetry
+<br>
 
-### 💣 Mine Detection Robot
-Metal detection • GPS mapping • Location logging • Web monitoring
+### 🕵️ Real-Time Pinned Projects
 
-### 🌱 Plant Disease AI
-Custom-trained dataset • PyTorch inference pipeline • Edge deployment research
+*The official GitHub Stats server is currently experiencing downtime (Error 503), so I built these custom real-time tracker cards that will never break!*
 
-### 🚗 Web-Controlled ESP32 Rover
-WiFi dashboard • Pan-tilt system • Live telemetry • Modular expansion design
+<br>
+
+#### 🤖 [Aryabhata Humanoid Robot](https://github.com/itz-void-tech/Aryabhata-Robot-MPB)
+> Interactive humanoid robot controlled by ESP32-S3 with dual TFT displays and web interaction.
+> 
+> [![Stars](https://img.shields.io/github/stars/itz-void-tech/Aryabhata-Robot-MPB?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/Aryabhata-Robot-MPB) [![Forks](https://img.shields.io/github/forks/itz-void-tech/Aryabhata-Robot-MPB?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/Aryabhata-Robot-MPB)
+
+#### 🕵️ [AI Spy Car](https://github.com/itz-void-tech/Spy-Car-MPB)
+> Autonomous GPS return • Dual remote (NRF + Web) • Night vision • Gas detection
+> 
+> [![Stars](https://img.shields.io/github/stars/itz-void-tech/Spy-Car-MPB?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/Spy-Car-MPB) [![Forks](https://img.shields.io/github/forks/itz-void-tech/Spy-Car-MPB?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/Spy-Car-MPB)
+
+#### 🌱 [Plant Disease AI](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection)
+> Custom-trained dataset • PyTorch inference pipeline • Edge deployment research
+> 
+> [![Stars](https://img.shields.io/github/stars/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection) [![Forks](https://img.shields.io/github/forks/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection)
+
+#### 🚗 [AgroXpert Web-Controlled Rover](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB)
+> WiFi dashboard • Pan-tilt system • Live telemetry • Modular expansion design
+> 
+> [![Stars](https://img.shields.io/github/stars/itz-void-tech/AgroXpert_Agricultural_car_MPB?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB) [![Forks](https://img.shields.io/github/forks/itz-void-tech/AgroXpert_Agricultural_car_MPB?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB)
+
+#### 💣 [Mine Detection Robot](https://github.com/itz-void-tech/SCORE-KSHETRA) *(Example / WIP)*
+> Metal detection • GPS mapping • Location logging
+> 
+> [![Stars](https://img.shields.io/github/stars/itz-void-tech/SCORE-KSHETRA?style=for-the-badge&color=00ffaa&logo=github)](https://github.com/itz-void-tech/SCORE-KSHETRA) [![Forks](https://img.shields.io/github/forks/itz-void-tech/SCORE-KSHETRA?style=for-the-badge&color=00d4ff&logo=github)](https://github.com/itz-void-tech/SCORE-KSHETRA)
 
 ---
 
 ## 🎯 Current Focus
 
-- Autonomous Robotics Architecture  
-- AI + Embedded Systems Integration  
-- Drone Autonomy  
-- Real-time Computer Vision  
-- Edge AI Deployment on ESP32 & Raspberry Pi
+<br>
+
+- 🏗️ **Architecture:** Autonomous Robotics & Scalable Systems
+- 🔌 **Integration:** Bridging AI with Embedded Hardware
+- 🚁 **Autonomy:** Drone Flight & Navigation Systems
+- 👁️ **Vision:** Real-time Computer Vision Processing
+- ⚡ **Edge AI:** Deploying Models on ESP32 & Raspberry Pi
 
 ---
 
-## GitHub Profile
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Engineering+the+future...;One+autonomous+system+at+a+time." alt="Vision Typing" />
+  
+  <p align="center">
+    <b>Building intelligent machines that operate independently, make decisions locally, and scale into real-world deployment.</b>
+  </p>
+  
 
-Official GitHub:
-https://github.com/itz-void-tech
-
----
-
-🌐 **Portfolio:** https://swarnendu-kundu-portfolio.netlify.app
-
----
-
-## 📌 Vision
-
-Building intelligent machines that operate independently, make decisions locally, and scale into real-world deployment.
-
-⚡ Engineering the future — one autonomous system at a time.
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=footer" alt="Footer Banner"/>
+</div>
