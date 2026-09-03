@@ -1,159 +1,546 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=250&section=header&text=Swarnendu%20Kundu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5BItz-Void-Tech%5D&descAlignY=55&descAlign=50" alt="Header Banner"/>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        SWARNENDU KUNDU                                  -->
+<!--                  Futuristic GitHub Profile README                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-  <a href="https://swarnendu-kundu-portfolio.netlify.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Student+Developer;Robotics+Enthusiast;Hardware+Hacker;AI+%26+Vision+Explorer" alt="Typing SVG" />
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=260&section=header&text=SWARNENDU%20KUNDU&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ROBOTICS%20%C3%97%20AI%20%C3%97%20SOFTWARE%20ENGINEERING&descAlignY=57&descSize=18&descColor=00ffaa" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFAA&center=true&vCenter=true&width=750&lines=Robotics+%26+AI+Developer;Head+of+Robotics+Department;Embedded+Systems+%7C+Computer+Vision;Building+Hardware+That+Thinks;From+Idea+%E2%86%92+Prototype+%E2%86%92+Working+System" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CLASS%2010%20%E2%80%A2%20ICSE-0D1117?style=for-the-badge&labelColor=0D1117&color=00ffaa"/>
+<img src="https://img.shields.io/badge/ROBOTICS%20LEADERSHIP-0D1117?style=for-the-badge&labelColor=0D1117&color=00ffaa"/>
+<img src="https://img.shields.io/badge/HACKATHON%20BUILDER-0D1117?style=for-the-badge&labelColor=0D1117&color=00ffaa"/>
+<img src="https://img.shields.io/badge/EMBEDDED%20ENGINEERING-0D1117?style=for-the-badge&labelColor=0D1117&color=00ffaa"/>
+
+<br><br>
+
+<a href="mailto:swarnendukundu141d@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/swarnendu-kundu">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://swarnendu-kundu-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00ffaa"/>
+</a>
+
+</div>
+
+---
+
+## ⚡ THE ENGINEER BEHIND THE CODE
+
+> **I build intelligent systems where software meets the physical world.**
+
+I'm a **Class 10 ICSE student, robotics engineer-in-training, and software developer** focused on turning ideas into working systems.
+
+As **Head of the Robotics Department** and a **Core Member of LMNTRIX (Computer Club)**, I work across robotics, AI, embedded hardware and software — building systems that don't just run in simulations, but interact with the real world.
+
+My approach is simple:
+
+**Think → Build → Test → Break → Improve → Deploy.**
+
+I enjoy taking a problem from a blank page to a functioning prototype — combining hardware, software, computer vision, automation and intelligent decision-making along the way.
+
+<br>
+
+## 🧭 IDENTITY
+
+<div align="center">
+
+# SWARNENDU KUNDU
+
+### 🤖 Robotics × AI × Software
+
+**I build intelligent systems that connect the digital world with the physical world.**
+
+I turn ideas into working products — combining **robotics, AI, computer vision,  
+embedded systems and software** to solve real-world problems.
+
+<br>
+
+`BUILD` · `INTEGRATE` · `AUTOMATE` · `INNOVATE`
+
+
+<table>
+<tr>
+<td align="center">
+
+<a href="https://www.linkedin.com/in/swarnendu-kundu">
+<img src="https://img.icons8.com/fluency/48/linkedin.png" width="32" alt="LinkedIn"/>
+</a>
+
+<br>
+
+**Connect with me**
+
+</td>
+
+<td width="35"></td>
+<br>
+<td align="center">
+
+<a href="https://github.com/itz-void-tech">
+<img src="https://img.icons8.com/fluency/48/github.png" width="32" alt="GitHub"/>
+</a>
+
+<br>
+
+**Explore my work**
+
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+
+<a href="https://swarnendu-kundu-portfolio.netlify.app">
+<img src="https://img.icons8.com/fluency/48/internet.png" width="32" alt="Portfolio"/>
+</a>
+
+<br>
+
+**See my projects**
+
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+
+<a href="mailto:swarnendukundu141d@gmail.com">
+<img src="https://img.icons8.com/fluency/48/gmail.png" width="32" alt="Email"/>
+</a>
+
+<br>
+
+**Contact me**
+
+</td>
+
+<td width="35"></td>
+
+<td align="center">
+
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="32" alt="Instagram"/>
+</a>
+
+<br>
+
+**Follow my journey**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
+## 🏆 SELECTED ACHIEVEMENTS
+
+<div align="center">
+
+<table>
+<tr>
+<th>🏅 EVENT</th>
+<th>🎯 RESULT</th>
+<th>💡 CATEGORY</th>
+</tr>
+
+<tr>
+<td><b>X-Hack — X-Celsior '26</b></td>
+<td><b>🥇 1st Place</b></td>
+<td>AI Hackathon</td>
+</tr>
+
+<tr>
+<td><b>X-Botics — X-Celsior '26</b></td>
+<td><b>🥈 2nd Prize</b></td>
+<td>Inter-School Robotics</td>
+</tr>
+
+<tr>
+<td><b>Zyro 24-Hour Hackathon</b></td>
+<td><b>🏆 Special Prize</b></td>
+<td>Hackathon</td>
+</tr>
+
+<tr>
+<td><b>Robology — MPBLITZ 2025</b></td>
+<td><b>🥈 2nd Place</b></td>
+<td>Inter-School Robotics</td>
+</tr>
+
+<tr>
+<td><b>CodesCook — Exe.BIT 14th Edition</b></td>
+<td><b>🥈 2nd Place</b></td>
+<td>Inter-School Coding</td>
+</tr>
+
+<tr>
+<td><b>Sri-Yantrix — Sri Sri Academy</b></td>
+<td><b>🥉 3rd Prize</b></td>
+<td>Inter-School Robotics</td>
+</tr>
+
+<tr>
+<td><b>Smart Bengal Hackathon 2025</b></td>
+<td><b>🏅 7th Place</b></td>
+<td>Hackathon</td>
+</tr>
+
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/🥇%201ST%20PLACE-1-00ffaa?style=flat-square&labelColor=161b22&color=00ffaa"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🥈%202ND%20PLACE-3-9da7b3?style=flat-square&labelColor=161b22&color=9da7b3"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🥉%203RD%20PRIZE-1-9da7b3?style=flat-square&labelColor=161b22&color=9da7b3"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏆%20SPECIAL%20PRIZE-ZYRO-00ffaa?style=flat-square&labelColor=161b22&color=00ffaa"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏅%20TOP%207-SMART%20BENGAL-9da7b3?style=flat-square&labelColor=161b22&color=9da7b3"/>
+
 </div>
 
 <br>
 
+### 👑 LEADERSHIP & ROLES
+
 <div align="center">
-  <a href="mailto:swarnendukundu141d@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/swarnendu-kundu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://swarnendu-kundu-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FFAA&borderColor=00FFAA" alt="Portfolio" /></a>
-</div>
 
----
+<table>
+<tr>
+<td width="33%" align="center">
 
-## 🧠 About Me
+### 🤖 ROBOTICS DEPARTMENT
+**Head of Department**
 
-Hi! I'm a passionate **student enthusiast** fascinated by the intersection of hardware and intelligence. I love experimenting with **embedded electronics, AI, and real-world robotics**.  
-My learning journey focuses on exploring autonomous machines, edge AI deployment, and building scalable embedded architectures from scratch.
+Leading robotics initiatives, project development,  
+team coordination and technical execution.
 
-From tinkering with **ESP32-based robotics** to deploying **Raspberry Pi vision systems**, I strive to engineer systems that operate beyond simulations — bringing ideas to life in real environments!
+</td>
 
----
+<td width="33%" align="center">
 
-## 💻 Tech Stack
+### 💻 LMNTRIX
+**Core Member · Computer Club**
+
+Contributing to technical projects,  
+innovation, collaboration and computing initiatives.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏆 HACKATHONS
+**Team Leader · 2×**
+
+Led teams through ideation, rapid prototyping,  
+technical execution and competitive delivery.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
-
-### 🤖 Embedded Systems & Robotics
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-### 🧠 AI & Computer Vision
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🌐 Software Engineering
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🛠️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+`LEAD` &nbsp;→&nbsp; `BUILD` &nbsp;→&nbsp; `COLLABORATE` &nbsp;→&nbsp; `INNOVATE`
 
 </div>
 
----
-
-## ⚙️ Core Expertise
-
-### 🤖 Embedded & Robotics
-⚡ **Microcontrollers:** ESP32 • ESP32-S3/CAM • Arduino  
-🍓 **Edge Compute:** Raspberry Pi (Vision/AI Processing)  
-📡 **Comm & Nav:** LoRa (SX1278) • NRF24L01+ • GPS (NEO-6M)  
-⚙️ **Hardware Control:** Motor Drivers • Servo Systems  
-🌐 **IoT & Web:** Telegram Bots • Web Dashboards  
-
-### 🛰️ Drone & Autonomy
-🚁 **Flight Controllers:** Pixhawk  
-🌍 **Ecosystems:** ArduPilot • Mission Planner  
-📡 **Control:** Telemetry & Ground Stations  
-🗺️ **Concepts:** Autonomous Navigation & Pathing  
-
-### 🧠 AI & Computer Vision
-👁️ **Vision:** OpenCV • Real-Time Inference  
-🧠 **Deep Learning:** PyTorch • Sensor Fusion  
-📊 **Data:** NumPy • Pandas • Custom Datasets (Roboflow)  
-⚡ **Edge AI:** Model Optimization for Microcontrollers  
-
----
-
-## 🏆 Real-Time Activity & Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-void-tech&theme=radical&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFAA&sideLabels=ffffff&dates=8b95a5" alt="GitHub Streak" />
-  
-  <br><br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=itz-void-tech&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
+<br>
 
----
+
+
+## 🚀 WHAT I BUILD
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Highlight+Projects;Autonomous+Systems;AI+Integrations" alt="Projects Typing" />
+
+### ⚡ FROM IDEA → INTELLIGENCE → MACHINE → PRODUCT
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/64/idea.png" width="52"/>
+
+###  IDEAS
+
+**I start with problems.**
+
+Concepts  
+Prototypes  
+Experiments  
+Solutions
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="52"/>
+
+###  INTELLIGENCE
+
+**I make systems think.**
+
+AI Integration  
+Computer Vision  
+YOLO  
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/64/robot-2.png" width="52"/>
+
+###  MACHINES
+
+**I make software move.**
+
+Robotics  
+ESP32  
+Arduino  
+Raspberry Pi
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/64/web.png" width="52"/>
+
+###  PRODUCTS
+
+**I make systems usable.**
+
+Web Apps  
+APIs  
+Dashboards  
+Connected Systems
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-6C63FF?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ROBOTICS-00A8E8?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SOFTWARE-FFB000?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/HARDWARE-E85D75?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AUTOMATION-7BC950?style=flat-square&logoColor=white"/>
+
+<br><br>
+
+### 🛠️ MY APPROACH
+
+**Think deeply. Build quickly. Break things. Improve relentlessly.**
+
+<br>
+
+`IDEA` → `PROTOTYPE` → `INTEGRATE` → `TEST` → `DEPLOY`
+
+<br><br>
+
+> **I don't build technology for the sake of technology.  
+> I build systems that make ideas work in the real world.**
+
 </div>
 
 <br>
 
-### 🚀 Highlight Projects
+## 🔥 FEATURED BUILDS
 
-- **[🤖 Aryabhata Humanoid Robot](https://github.com/itz-void-tech/Aryabhata-Robot-MPB)**  
-  *Interactive humanoid robot controlled by ESP32-S3 with dual TFT displays and web interaction.*
+### 🤖 [Aryabhata Humanoid Robot](https://github.com/itz-void-tech/Aryabhata-Robot-MPB)
 
-- **[🕵️ AI Spy Car](https://github.com/itz-void-tech/Spy-Car-MPB)**  
-  *Autonomous GPS return • Dual remote (NRF + Web) • Night vision • Gas detection*
+> Interactive humanoid robotic system built around **ESP32-S3**, dual TFT displays and web-based interaction.
 
-- **[🌱 Plant Disease AI](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection)**  
-  *Custom-trained dataset • PyTorch inference pipeline • Edge deployment research*
-
-- **[🚗 AgroXpert Web-Controlled Rover](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB)**  
-  *WiFi dashboard • Pan-tilt system • Live telemetry • Modular expansion design*
-
-- **[🕷️ Spider Robot](https://github.com/itz-void-tech/Spider-Robot)**  
-  *3D printed • Web controlled • GPS Mapping*
+**`ESP32-S3` `Embedded C++` `Robotics` `Web Interface`**
 
 ---
 
-## 🎯 Current Focus
+### 🕵️ [AI Spy Car](https://github.com/itz-void-tech/Spy-Car-MPB)
+
+> Multi-function surveillance rover combining **GPS navigation, wireless control, night vision and gas detection**.
+
+**`ESP32-CAM` `GPS` `NRF24L01` `Computer Vision` `IoT`**
+
+---
+
+### 🌱 [AgriVision AI](https://github.com/itz-void-tech/AgriVisonAI---AI-Plant-leaf-ditection)
+
+> AI-powered plant disease detection system using a custom-trained vision model for agricultural applications.
+
+**`Python` `PyTorch` `Computer Vision` `Roboflow` `AI`**
+
+---
+
+### 🚗 [AgroXpert](https://github.com/itz-void-tech/AgroXpert_Agricultural_car_MPB)
+
+> Web-controlled agricultural rover with live telemetry, pan-tilt control and a modular robotics architecture.
+
+**`ESP32` `Web Control` `Robotics` `Telemetry` `IoT`**
+
+---
+
+### 🕷️ [Spider Robot](https://github.com/itz-void-tech/Spider-Robot)
+
+> 3D-printed quadruped robotic platform with web control and GPS-based mapping capabilities.
+
+**`Arduino` `Robotics` `GPS` `3D Printing` `Web Control`**
+
+---
+
+## 🧩 MY TECHNICAL STACK
+
+<div align="center">
+
+### `01` · 💻 LANGUAGES
+
+<sub>Building the logic behind software, automation and intelligent machines.</sub>
 
 <br>
 
-- 🏗️ **Architecture:** Autonomous Robotics & Scalable Systems
-- 🔌 **Integration:** Bridging AI with Embedded Hardware
-- 🚁 **Autonomy:** Drone Flight & Navigation Systems
-- 👁️ **Vision:** Real-time Computer Vision Processing
-- ⚡ **Edge AI:** Deploying Models on ESP32 & Raspberry Pi
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
 
----
+<br><br>
+
+### `02` · 🌐 WEB / BACKEND / CLOUD
+
+<sub>Turning ideas into interfaces, APIs and connected applications.</sub>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi,firebase" />
+
+<br><br>
+
+### `03` · 🧠 AI / COMPUTER VISION
+
+<sub>Making systems see, understand and respond to the world around them.</sub>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+&nbsp;
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=ultralytics&logoColor=white" />
+
+<br><br>
+
+### `04` · 🤖 ROBOTICS / EMBEDDED
+
+<sub>Bridging software and intelligence with real-world hardware.</sub>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+&nbsp;
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+
+<br><br>
+
+### `05` · 🛠️ ENGINEERING / DEVELOPMENT
+
+<sub>Building, debugging, versioning and shipping projects reliably.</sub>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,bash" />
+
+<br><br>
+
+<hr width="60%">
+
+<br>
+
+### ⚡ THE WAY I USE THIS STACK
+
+**CODE** → **CONNECT** → **INTELLIGENT SYSTEM** → **REAL WORLD**
+
+<br>
+
+<sub>
+I don't learn technologies just to collect them —  
+I use them as building blocks to turn ideas into working systems.
+</sub>
+
+</div>
+<br><br>
+## 🧠 WHAT I ACTUALLY WORK WITH
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Engineering+the+future...;One+autonomous+system+at+a+time." alt="Vision Typing" />
-  
-  <p align="center">
-    <b>Building intelligent machines that operate independently, make decisions locally, and scale into real-world deployment.</b>
-  </p>
-  
-  <br>
 
-  <a href="https://swarnendu-kundu-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/View_Full_Portfolio-00FFAA?style=for-the-badge&logo=firefox&logoColor=black&labelColor=000000" alt="Portfolio" />
-  </a>
-  
-  <br><br>
+### `> INITIALIZING SWARNENDU.OS...`
 
-  <img src="https://komarev.com/ghpvc/?username=itz-void-tech&color=00ffaa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <br><br>
+<br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=120&section=footer" alt="Footer Banner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=700&color=6C63FF&center=true&vCenter=true&width=700&lines=%5BOK%5D+Loading+Robotics+Core...;%5BOK%5D+Connecting+AI+Systems...;%5BOK%5D+Compiling+Ideas...;%5BOK%5D+Connecting+Hardware...;%5BOK%5D+System+Ready." />
+
+<br><br>
+
+<pre>
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   SWARNENDU.OS                                               │
+│   Robotics × AI × Software                                   │
+│                                                              │
+│   CPU    ──► C++ · Java · Python · JavaScript                │
+│   VISION ──► OpenCV · YOLO · AI Systems                     │
+│   BODY   ──► ESP32 · Arduino · Raspberry Pi                 │
+│   BRAIN  ──► React · FastAPI · Firebase                     │
+│                                                              │
+│   STATUS: ONLINE ●                                           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+</pre>
+
+<br>
+
+### ⚠️ `WARNING: THIS SYSTEM MAY BUILD ROBOTS AFTER MIDNIGHT.`
+
+<br>
+
+**INPUT:** `Problem`
+
+↓
+
+**PROCESS:** `Code + AI + Hardware + Too Much Curiosity`
+
+↓
+
+**OUTPUT:** `Something that actually works`
+
+<br>
+
+<img src="https://img.shields.io/badge/ROBOTICS-00A8E8?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOFTWARE-FFB000?style=flat-square"/>
+<img src="https://img.shields.io/badge/HARDWARE-E85D75?style=flat-square"/>
+<img src="https://img.shields.io/badge/AUTOMATION-7BC950?style=flat-square"/>
+
+<br><br>
+
+> **If it can be coded, connected, automated or made to move —**  
+> **I'm probably trying to build it.**
+
 </div>
