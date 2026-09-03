@@ -7,19 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=260&section=header&text=SWARNENDU%20KUNDU&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ROBOTICS%20%C3%97%20AI%20%C3%97%20SOFTWARE%20ENGINEERING&descAlignY=57&descSize=18&descColor=00ffaa" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFAA&center=true&vCenter=true&width=750&lines=Robotics+%26+AI+Developer;Head+of+Robotics+Department;Embedded+Systems+%7C+Computer+Vision;Building+Hardware+That+Thinks;From+Idea+%E2%86%92+Prototype+%E2%86%92+Working+System" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CLASS%2010%20%E2%80%A2%20ICSE-0D1117?style=for-the-badge&labelColor=0D1117&color=00ffaa"/>
-<img src="https://img.shields.io/badge/ROBOTICS%20LEADERSHIP-0D1117?style=for-the-badge&labelColor=0D1117&color=00ffaa"/>
-<img src="https://img.shields.io/badge/HACKATHON%20BUILDER-0D1117?style=for-the-badge&labelColor=0D1117&color=00ffaa"/>
-<img src="https://img.shields.io/badge/EMBEDDED%20ENGINEERING-0D1117?style=for-the-badge&labelColor=0D1117&color=00ffaa"/>
-
-<br><br>
-
 <a href="mailto:swarnendukundu141d@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -128,7 +115,7 @@ embedded systems and software** to solve real-world problems.
 
 <td align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<a href="https://instagram.com/itz.void.tech._">
 <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="32" alt="Instagram"/>
 </a>
 
