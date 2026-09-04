@@ -24,19 +24,17 @@
 
 <br>
 
-## 🧭 ABOUT ME
-
-<div align="center">
-  
-**`BUILD` · `INTEGRATE` · `AUTOMATE` · `INNOVATE`**
-
-</div>
+## 🧭 ABOUT ME — Swarnendu Kundu (Itz-Void-Tech)
 
 I am a **Class 10 ICSE student** currently studying at **M.P. Birla Foundation Higher Secondary School, Kolkata**. Beyond the standard curriculum, I am a passionate robotics engineer-in-training and software developer focused on building intelligent systems where software seamlessly interacts with the physical world.
 
-My journey is driven by taking problems from a blank page to a functioning prototype. As the **Head of the Robotics Department** and a **Core Member of LMNTRIX** (our Computer Club), I work extensively across robotics, AI, computer vision, and embedded systems. I don't just write code that runs in a simulation—I build machines that see, move, and make intelligent decisions in reality. 
+**👤 Core Roles & Identity:**
+- **Head of Robotics Department** — Leading robotics initiatives, project development, and technical execution for the department at M.P. Birla Foundation HSS.
+- **Core Member, LMNTRIX** — Active contributor to technical projects and computing initiatives within the school's computer club.
+- **Hackathon Team Leader** — Leading multidisciplinary teams through ideation, rapid prototyping, and competitive delivery (4th Place in SBH'25 and Robotics Hackathons).
+- **Hardware & AI Maker** — I don't just write code that runs in a simulation; I build machines that see, move, and make intelligent decisions in reality.
 
-My engineering philosophy is straightforward: **Think deeply. Build quickly. Break things. Improve relentlessly.** Whether it's an AI-powered agricultural rover or a web-controlled hexapod, I build systems that turn bold ideas into working real-world products.
+My engineering philosophy is straightforward: **Think deeply. Build quickly. Break things. Improve relentlessly.** Whether it's an AI-powered agricultural rover or a web-controlled hexapod, everything I build is a stepping stone toward advanced robotics engineering.
 
 <br>
 
@@ -87,52 +85,52 @@ Leading multidisciplinary teams through ideation, rapid prototyping, technical e
 <tr>
 <th>🏅 EVENT / COMPETITION</th>
 <th>🎯 RESULT</th>
-<th>💡 CATEGORY</th>
+<th>🚀 PROJECT BUILT</th>
 </tr>
 <tr>
 <td><b>Zyro 24-Hour Hackathon</b></td>
 <td><b>🏆 Special Prize</b></td>
-<td>Hackathon</td>
+<td>Vanguard - Disaster Inspection Rover</td>
 </tr>
 <tr>
 <td><b>Smart Bengal Hackathon 2025</b></td>
-<td><b>🏅 7th Place</b></td>
-<td>State Hackathon</td>
+<td><b>🏅 4th Place (Hardware)</b></td>
+<td>AgroXpert — Autonomous Agricultural Rover</td>
 </tr>
 <tr>
 <td><b>X-Hack — X-Celsior '26</b></td>
 <td><b>🥇 1st Place</b></td>
-<td>AI Hackathon</td>
+<td>NeoPet — AI-Powered Virtual Pet</td>
 </tr>
 <tr>
 <td><b>Inter-House Web Development</b></td>
 <td><b>🥇 1st Place</b></td>
-<td>Web Dev Competition</td>
+<td>OpenAI Clone from scratch</td>
 </tr>
 <tr>
 <td><b>X-Botics — X-Celsior '26</b></td>
 <td><b>🥈 2nd Prize</b></td>
-<td>Inter-School Robotics</td>
+<td>Autonomous Rescue & Delivery Rover</td>
 </tr>
 <tr>
 <td><b>Robology — MPBLITZ 2025</b></td>
 <td><b>🥈 2nd Place</b></td>
-<td>Inter-School Robotics</td>
+<td>Military Vision Car (ESP32-CAM, AI)</td>
 </tr>
 <tr>
 <td><b>CodesCook — Exe.BIT 14th Edition</b></td>
 <td><b>🥈 2nd Place</b></td>
-<td>Inter-School Coding</td>
+<td>"Towards the techade" — Web Dev</td>
 </tr>
 <tr>
 <td><b>Inter-House Robotics</b></td>
 <td><b>🥈 2nd Place</b></td>
-<td>School Robotics</td>
+<td>School Robotics Build</td>
 </tr>
 <tr>
 <td><b>Sri-Yantrix — Sri Sri Academy</b></td>
 <td><b>🥉 3rd Prize</b></td>
-<td>Inter-School Robotics</td>
+<td>A rover challenge to complete the debris path</td>
 </tr>
 </table>
 
@@ -245,63 +243,3 @@ Leading multidisciplinary teams through ideation, rapid prototyping, technical e
 
 </div>
 
-<br><br>
-
-## 🧠 SYSTEM OVERVIEW
-
-<div align="center">
-
-### `> INITIALIZING SWARNENDU.OS...`
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=700&color=00ffaa&center=true&vCenter=true&width=700&lines=%5BOK%5D+Loading+Robotics+Core...;%5BOK%5D+Connecting+AI+Systems...;%5BOK%5D+Compiling+Ideas...;%5BOK%5D+Connecting+Hardware...;%5BOK%5D+System+Ready." />
-
-<br><br>
-
-<pre>
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   SWARNENDU.OS                                               │
-│   Robotics × AI × Software                                   │
-│                                                              │
-│   CPU    ──► C++ · Java · Python · JavaScript                │
-│   VISION ──► OpenCV · YOLO · AI Systems                     │
-│   BODY   ──► ESP32 · Arduino · Raspberry Pi                 │
-│   BRAIN  ──► React · FastAPI · Firebase                     │
-│                                                              │
-│   STATUS: ONLINE ●                                           │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-</pre>
-
-<br>
-
-### ⚠️ `WARNING: THIS SYSTEM MAY BUILD ROBOTS AFTER MIDNIGHT.`
-
-<br>
-
-**INPUT:** `Problem`
-
-↓
-
-**PROCESS:** `Code + AI + Hardware + Relentless Curiosity`
-
-↓
-
-**OUTPUT:** `Something that actually works`
-
-<br>
-
-<img src="https://img.shields.io/badge/ROBOTICS-00A8E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/SOFTWARE-FFB000?style=flat-square"/>
-<img src="https://img.shields.io/badge/HARDWARE-E85D75?style=flat-square"/>
-<img src="https://img.shields.io/badge/AUTOMATION-00ffaa?style=flat-square&labelColor=161b22&color=00ffaa"/>
-
-<br><br>
-
-> **If it can be coded, connected, automated or made to move —**  
-> **I'm probably trying to build it.**
-
-</div>
