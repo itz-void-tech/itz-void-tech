@@ -105,7 +105,7 @@ Leading multidisciplinary teams through ideation, rapid prototyping, technical e
 <tr>
 <td><b>Inter-House Web Development</b></td>
 <td><b>🥇 1st Place</b></td>
-<td>OpenAI Clone from scratch</td>
+<td>OpenAI Clone from scratch without using AI</td>
 </tr>
 <tr>
 <td><b>X-Botics — X-Celsior '26</b></td>
